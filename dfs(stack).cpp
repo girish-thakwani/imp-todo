@@ -1,3 +1,4 @@
+//also it starts to move to right first
 #include<iostream>
 #include<bits/stdc++.h>
 #include<vector>
