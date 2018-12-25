@@ -1,6 +1,10 @@
-      1.Extended Euclidean Algorithm and why and when?bézout's theorem?
-      2.Modular Multiplicative Inverse
+(done)1.Extended Euclidean Algorithm and why and when?bézout's theorem?
+(part?)2.Modular Multiplicative Inverse
 Note:If we subtract smaller number from larger (we reduce larger number), GCD doesn’t change. So if we keep subtracting repeatedly the larger of two, we end up with GCD.
 (done)3.bfs
 (done)4.dfs
-(done)5.bridges
+      5.bridges
+      6.Dynamic Connectivity
+      7.Union Find Algorithm
+loosely important,probably not to do:
+      1.Master method
