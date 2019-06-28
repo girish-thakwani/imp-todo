@@ -12,7 +12,6 @@ int main(){
                 ll x=b^c;
                 //string xx=btos(8,x);
                 ll cnt=__builtin_popcount(x);
-                //cout<<b<<" "<<c<<endl;
                 if((cnt&1)==0)ans++;
         }
         cout<<ans;
