@@ -6,5 +6,7 @@ Note:If we subtract smaller number from larger (we reduce larger number), GCD do
       5.bridges
       6.Dynamic Connectivity
       7.Union Find Algorithm
+      8.Count Inversion using BIT and Merge Sort.
+(done)9.Matrix chain multiplication
 loosely important,probably not to do:
       1.Master method
